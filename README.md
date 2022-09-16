@@ -11,6 +11,6 @@ Construção de um portifólio dos projetos desenvolvidos durante a imersão
 
 ## Links importantes
 
-* [Página Portifólio](https://ginadev-dutra.github.io/portifolio/)
+* [Página Portifólio](https://ginadev-dutra.github.io/portifolio-gina-dutra/)
 * [Figma](https://www.figma.com/file/I4p9ndfOKgjDKalFwd5ASr/Imers%C3%A3o-Dev---Aula-10?node-id=0%3A1)
 * [Code Pen](https://codepen.io/ginadev-dutra/pen/JjvERXO?editors=0010)
